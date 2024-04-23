@@ -399,8 +399,3 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-#-------------------------------
-[PUTIN]
-Name = Unnamed
-Gender = Male
-BaseMoney = 30

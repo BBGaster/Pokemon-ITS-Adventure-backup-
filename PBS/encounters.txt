@@ -19,14 +19,21 @@ SuperRod
 #-------------------------------
 [005] # Route 1
 Land,21
-    50,PIDGEY,2,3
-    50,RATTATA,2,3
+    40,PIDGEY,11,14
+    40,RATTATA,11,14
+    9,PIDGEY,11,13
+    9,RATTATA,11,13
+    1,PIDGEY,14
+    1,RATTATA,14
 LandNight,21
-    40,HOOTHOOT,2,3
-    40,RATTATA,2,3
-    20,SPINARAK,2,3
+    39,RATTATA,10,14
+    30,HOOTHOOT,10,13
+    20,SPINARAK,8,12
+    9,HOOTHOOT,10,14
+    1,HOOTHOOT,14
+    1,RATTATA,15
 PokeRadar,20
-    100,STARLY,2,3
+    100,STARLY,12,15
 #-------------------------------
 [005,1] # Route 1
 Land,21
@@ -108,8 +115,8 @@ BugContest,21
     5,PINSIR,13,14
     5,SCYTHER,13,14
 PokeRadar,40
-    50,BEEDRILL,15,18
     50,BUTTERFREE,15,18
+    50,BEEDRILL,15,18
 #-------------------------------
 [031] # Route 3
 Land,21
@@ -148,19 +155,6 @@ HeadbuttHigh
     50,SEEDOT,14,17
     30,SHROOMISH,14,17
     20,BURMY,12,15
-#-------------------------------
-[033] # Percorso 1
-Land,20
-    45,RATTATA,2,4
-    30,SPEAROW,2,4
-    24,PIDGEY,2,4
-    1,EEVEE,3,5
-LandNight,21
-    45,RATTATA,2,5
-    30,SPEAROW,3,5
-    24,PIDGEY,2,5
-    1,DARKRAI,70
-    1,EEVEE,3,6
 #-------------------------------
 [034] # Ice Cave
 Cave,5
