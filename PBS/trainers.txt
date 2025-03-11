@@ -116,3 +116,21 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[CAPOPALESTRAACQUA,Paola]
+Items = POTION
+LoseText = ...
+Pokemon = WOOPER,12
+    Moves = MUDSLAP,ICYWIND,BODYSLAM,WATERGUN
+    Ability = UNAWARE
+    IV = 10,10,10,10,10,10
+    Ball = POKEBALL
+Pokemon = WINGULL,13
+    Moves = ICYWIND,WATERGUN,WINGATTACK,GROWL
+    Ability = KEENEYE
+    IV = 10,10,10,10,10,10
+Pokemon = VAPOREON,15
+    Name = Nick's Crush
+    Moves = QUICKATTACK,ICEBEAM,WATERPULSE,DIG
+    Ability = HYDRATION
+    IV = 20,20,20,20,20,20

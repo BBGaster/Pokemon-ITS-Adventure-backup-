@@ -16,10 +16,14 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Bitonto (77) - testtown (22)
+77,4,52,22,0,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Percorso 1 (33) - Bitonto (77)
+33,North,0,77,South,4
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -30,13 +34,11 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Percorso 1 (33) - Bitonto (77)
-33,North,0,77,South,4
 # Percorso 2 (84) - Bitonto (77)
 84,South,0,77,North,31
 # intercorso bitontop2 (85) - Bitonto (77)
 85,West,0,77,East,0
-# Bitonto (77) - testtown (22)
-77,4,52,22,0,0
 # intercorso bitontop2 (85) - Percorso 2 (84)
 85,North,0,84,South,3
+# percorso 1.2 (93) - Percorso 1.1 (92)
+93,North,0,92,South,37

@@ -412,5 +412,8 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [077]   # Bitonto
+Name = Bitonto
 Outdoor = true
 ShowArea = true
+#-------------------------------
+[092]   # Percorso 1.1

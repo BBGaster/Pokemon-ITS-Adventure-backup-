@@ -399,3 +399,13 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[CAPOPALESTRA1]
+Name = Unnamed
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[CAPOPALESTRAACQUA]
+Name = Unnamed
+Gender = Female
+BaseMoney = 50
