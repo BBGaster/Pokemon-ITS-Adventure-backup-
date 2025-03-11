@@ -117,7 +117,7 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[CAPOPALESTRAACQUA,Paola]
+[CAPACQUA,Paola]
 Items = POTION
 LoseText = ...
 Pokemon = WOOPER,12
@@ -130,7 +130,6 @@ Pokemon = WINGULL,13
     Ability = KEENEYE
     IV = 10,10,10,10,10,10
 Pokemon = VAPOREON,15
-    Name = Nick's Crush
     Moves = QUICKATTACK,ICEBEAM,WATERPULSE,DIG
     Ability = HYDRATION
     IV = 20,20,20,20,20,20

@@ -405,7 +405,7 @@ Name = Unnamed
 Gender = Female
 BaseMoney = 50
 #-------------------------------
-[CAPOPALESTRAACQUA]
+[CAPACQUA]
 Name = Unnamed
 Gender = Female
 BaseMoney = 50
